@@ -1,0 +1,5 @@
+@charset "utf-8";
+/* CSS Document */
+p[name="uno"]{font-size: 35px; color:aqua;}
+p[name="dos"]{color:crimson;}
+p[name="tres"]{color:darkblue;font-size: 60px;}
